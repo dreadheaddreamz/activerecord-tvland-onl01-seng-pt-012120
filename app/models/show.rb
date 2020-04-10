@@ -10,3 +10,4 @@ class Show < ActiveRecord::Base
     list
   end
 end
+end
